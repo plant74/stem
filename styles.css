@@ -1,0 +1,23 @@
+header,footer{background-color: gold;
+text-align: center;
+padding: 10px;
+color: firebrick;}
+
+nav {
+    padding: 20px 10px;
+}
+nav a {
+    background-color: gold;
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 10px;
+    text-decoration: none;
+    margin: 15px;
+}
+.foot{
+    font-size: 10px;
+}
+img {
+    width: 500px;
+    height: 500px;
+}
